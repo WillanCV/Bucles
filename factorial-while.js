@@ -5,3 +5,4 @@ while(i <= 12){
   i++
 }
 console.log("El factorial del numero 12 es : " +factorial)
+
